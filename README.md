@@ -1,9 +1,13 @@
+<div align="center">
+
 # Secure Small Enterprise Network Lab
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
-![Networking](https://img.shields.io/badge/Focus-Enterprise%20Networking-green)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
+![Focus](https://img.shields.io/badge/Focus-Enterprise%20Networking-green)
 ![Security](https://img.shields.io/badge/Security-VLANs%20%7C%20ACLs%20%7C%20NAT-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+</div>
 
 ## Overview
 
